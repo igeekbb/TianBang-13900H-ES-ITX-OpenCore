@@ -22,7 +22,7 @@
 - 有线网卡: 瑞昱 RTL8125 Gaming 2.5GbE
 - 有线网卡: 瑞昱 RTL8111
 - 无线网卡: BCM94360CS2
-- 处理器散热: 利民 AXP90-X53 WHITE 白色￼￼
+- 处理器散热: 利民 AXP90-X53 WHITE 白色
 - 电源: 鑫谷（Segotep）750W 全模850电源
 - 机箱: 超导合体 ITX 机箱
 ![](https://cdn.jsdelivr.net/gh/igeekbb/OSS@main/2024/202401031836314.webp)
