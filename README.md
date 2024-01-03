@@ -30,7 +30,10 @@
 ### BIOS设置
 
 ```
-Leo BIOS固件无特殊设置
+Leo BIOS固件:
+禁用 CSM
+禁用 Fast Boot
+禁用 Secure Boot
 ```
 ### 完美情况
 - [x] 声卡正常
