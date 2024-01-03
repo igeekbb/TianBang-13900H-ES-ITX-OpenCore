@@ -25,6 +25,8 @@
 - 处理器散热: 利民 AXP90-X53 WHITE 白色
 - 电源: 鑫谷（Segotep）750W 全模850电源
 - 机箱: 超导合体 ITX 机箱
+
+![](https://cdn.jsdelivr.net/gh/igeekbb/OSS@main/2024/202401032001757.webp)
 ![](https://cdn.jsdelivr.net/gh/igeekbb/OSS@main/2024/202401031836314.webp)
 ![](https://cdn.jsdelivr.net/gh/igeekbb/OSS@main/2024/202401031450458.jpeg)
 ### BIOS设置
