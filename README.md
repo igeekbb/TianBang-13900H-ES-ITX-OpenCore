@@ -16,19 +16,21 @@
 
 - BIOS版本: Leo Bios
 - 处理器: 英特尔13代 i9-13900H ES
-- 内存: 科赋 CJR 16GB(8GB*2) DDR4 4000 Mhz
-- 显卡: AMD RX480 8G
+- 内存: 金百达 CJR 32GB(16GB*2) DDR4 3600 Mhz
+- 显卡: AMD RX580 8G
 - 声卡: 瑞昱 ALC897
 - 有线网卡: 瑞昱 RTL8125 Gaming 2.5GbE
 - 有线网卡: 瑞昱 RTL8111
-- 无线网卡: 94360NG
-- 处理器散热: 利民 AXP120 + 猫头鹰 1215
+- 无线网卡: BCM94360CS2
+- 处理器散热: 利民 AXP90-X53 WHITE 白色￼￼
+- 电源: 鑫谷（Segotep）750W 全模850电源
+- 机箱: 超导合体 itx 机箱
 
 
 ### BIOS设置
 
 ```
-待补充
+Leo BIOS固件无特殊设置
 
 ```
 
