@@ -40,15 +40,15 @@ Leo BIOS固件:
 - [x] 双网卡正常
 - [x] 显卡正常
 - [x] 睡眠正常
-- [x] USB制定
+- [x] USB定制
 - [x] WIFI&蓝牙正常 （需要打[补丁](https://www.igeekbb.com/2023/09/27/Hackintoswifi/)）
 - [ ] 温度
 
 ### 使用kext
 ![](https://cdn.jsdelivr.net/gh/igeekbb/OSS@main/2024/202401031851430.webp)
-
-
-
+### USB定制
+![](https://cdn.jsdelivr.net/gh/igeekbb/OSS@main/2024/202401031902459.webp)
+![](https://cdn.jsdelivr.net/gh/igeekbb/OSS@main/2024/202401031904907.webp)
 ### 注意事项
 
  - 安装成功后必须使用 [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 或者 [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) 生成你自己的 SMBIOS
