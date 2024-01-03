@@ -48,8 +48,3 @@
 - [ProperTree](https://github.com/corpnewt/ProperTree) Plist editor.
 
 
-### 联系我们
-
-QQ Group: 23304408
-
-![image](Screenshot/QRCode.png)
