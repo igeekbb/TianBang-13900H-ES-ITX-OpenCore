@@ -27,7 +27,7 @@
 - 机箱: 超导合体 ITX 机箱
 - 
 ![](https://cdn.jsdelivr.net/gh/igeekbb/OSS@main/2024/202401031449361.jpeg)
-
+![](https://cdn.jsdelivr.net/gh/igeekbb/OSS@main/2024/202401031450458.jpeg)
 ### BIOS设置
 
 ```
