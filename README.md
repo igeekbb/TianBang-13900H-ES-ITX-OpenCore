@@ -37,6 +37,7 @@ Leo BIOS固件无特殊设置
 - [x] 双网卡正常
 - [x] 显卡正常
 - [x] 睡眠正常
+- [x] USB制定
 - [x] WIFI&蓝牙正常 （需要打[补丁](https://www.igeekbb.com/2023/09/27/Hackintoswifi/)）
 - [ ] 温度
 
