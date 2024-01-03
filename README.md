@@ -44,6 +44,9 @@ Leo BIOS固件:
 - [x] WIFI&蓝牙正常 （需要打[补丁](https://www.igeekbb.com/2023/09/27/Hackintoswifi/)）
 - [ ] 温度
 
+### 使用kext
+![](https://cdn.jsdelivr.net/gh/igeekbb/OSS@main/2024/202401031851430.webp)
+
 
 
 ### 注意事项
