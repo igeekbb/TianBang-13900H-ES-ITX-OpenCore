@@ -2,7 +2,7 @@
 
 ![image](Screenshot/Motherbord.jpg)
 ![image](Screenshot/un2.webp)
-[OpenCore 0.9.7](https://github.com/acidanthera/OpenCorePkg)
+## 评测文章 [《圾皇狂喜 新手地狱？i9 13900H 魔改板U套装评测》](https://www.igeekbb.com/2024/01/02/13900h/)
 
 
 ### macOS
@@ -65,5 +65,5 @@ Leo BIOS固件:
 - [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) AKA `OCC`.
 - [gibMacOS](https://github.com/corpnewt/gibMacOS) Build your own MacOS image.
 - [ProperTree](https://github.com/corpnewt/ProperTree) Plist editor.
-
+- [OpenCore 0.9.7](https://github.com/acidanthera/OpenCorePkg)
 
