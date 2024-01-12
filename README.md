@@ -4,6 +4,16 @@
 ![image](Screenshot/un2.webp)
 ## 评测文章 [《圾皇狂喜 新手地狱？i9 13900H 魔改板U套装评测》](https://www.igeekbb.com/2024/01/02/13900h/)
 
+<details>
+  <summary>20240112 更新 V1.1</summary>
+ - 加入 CpuTopologyRebuild.kext 优化13代CPU多线程
+优化前跑分&优化后跑分（多核增加近千分）
+  <img src="https://cdn.jsdelivr.net/gh/igeekbb/OSS@main/2024/202401031941115.webp" alt="图片描述" width="500"/>
+  <img src="https://cdn.jsdelivr.net/gh/igeekbb/OSS@main/2024/202401122240622.webp" alt="图片描述" width="500"/>
+
+ 正确识别大小核和超线程
+![](https://cdn.jsdelivr.net/gh/igeekbb/OSS@main/2024/202401122238459.webp)
+</details>
 
 ### macOS
 
