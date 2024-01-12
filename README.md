@@ -1,6 +1,6 @@
-## 天邦 13900H ES ITX 黑苹果 OpenCore EFI
+# 天邦 13900H ES ITX 黑苹果 OpenCore EFI
 
-![image](Screenshot/Motherbord.jpg)
+![](https://cdn.jsdelivr.net/gh/igeekbb/OSS@main/2024/202401122331326.JPG)
 ![image](Screenshot/un2.webp)
 ## 评测文章 [《圾皇狂喜 新手地狱？i9 13900H 魔改板U套装评测》](https://www.igeekbb.com/2024/01/02/13900h/)
 
@@ -19,14 +19,14 @@
 ![](https://cdn.jsdelivr.net/gh/igeekbb/OSS@main/2024/202401122238459.webp)
 </details>
 
-### macOS
+## macOS
 
 - Ventura
 - Monterey
 - Sonoma
 
 
-### 硬件
+## 硬件
 
 - BIOS版本: Leo Bios
 - 处理器: 英特尔13代 i9-13900H ES
@@ -43,7 +43,7 @@
 ![](https://cdn.jsdelivr.net/gh/igeekbb/OSS@main/2024/202401032001757.webp)
 ![](https://cdn.jsdelivr.net/gh/igeekbb/OSS@main/2024/202401031836314.webp)
 ![](https://cdn.jsdelivr.net/gh/igeekbb/OSS@main/2024/202401031450458.jpeg)
-### BIOS设置
+## BIOS设置
 
 ```
 Leo BIOS固件:
@@ -51,7 +51,7 @@ Leo BIOS固件:
 禁用 Fast Boot
 禁用 Secure Boot
 ```
-### 完美情况
+## 完美情况
 - [x] 声卡正常
 - [x] 双网卡正常
 - [x] 显卡正常
@@ -72,7 +72,7 @@ Leo BIOS固件:
  - 使用英特尔无线网卡的用户请自行根据MacOS版本添加[英特尔无线](https://hackintosh.club/d/10000015)和[蓝牙驱动](https://hackintosh.club/d/10000017)
 
 
-### 常用工具
+## 常用工具
 
 - [Hackintool](https://github.com/headkaze/Hackintool) 
 - [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) AKA `OCAT`.
