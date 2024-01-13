@@ -14,8 +14,7 @@
 优化前跑分&优化后跑分（多核增加近千分）
   <img src="https://cdn.jsdelivr.net/gh/igeekbb/OSS@main/2024/202401031941115.webp" alt="图片描述" width="500"/>
   <img src="https://cdn.jsdelivr.net/gh/igeekbb/OSS@main/2024/202401122240622.webp" alt="图片描述" width="500"/>
-
- 正确识别大小核和超线程
+正确识别大小核和超线程
 <img src="https://cdn.jsdelivr.net/gh/igeekbb/OSS@main/2024/202401122238459.webp" alt="图片描述" width="500"/>
 </details>
 
