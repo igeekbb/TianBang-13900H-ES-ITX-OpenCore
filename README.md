@@ -16,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/igeekbb/OSS@main/2024/202401122240622.webp" alt="图片描述" width="500"/>
 
  正确识别大小核和超线程
-![](https://cdn.jsdelivr.net/gh/igeekbb/OSS@main/2024/202401122238459.webp)
+<img src="https://cdn.jsdelivr.net/gh/igeekbb/OSS@main/2024/202401122238459.webp" alt="图片描述" width="500"/>
 </details>
 
 ## macOS
@@ -43,6 +43,7 @@
 ![](https://cdn.jsdelivr.net/gh/igeekbb/OSS@main/2024/202401032001757.webp)
 ![](https://cdn.jsdelivr.net/gh/igeekbb/OSS@main/2024/202401031836314.webp)
 ![](https://cdn.jsdelivr.net/gh/igeekbb/OSS@main/2024/202401031450458.jpeg)
+![](https://cdn.jsdelivr.net/gh/igeekbb/OSS@main/2024/202401132257618.png)
 ## BIOS设置
 
 ```
